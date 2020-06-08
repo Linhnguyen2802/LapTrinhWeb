@@ -84,3 +84,4 @@ c:\users\windows 10 version 2\documents\visual studio 2015\Projects\BigSchool\Bi
 c:\users\windows 10 version 2\documents\visual studio 2015\Projects\BigSchool\BigSchool\obj\Debug\BigSchool.csproj.GenerateResource.Cache
 c:\users\windows 10 version 2\documents\visual studio 2015\Projects\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.CreateTableCourse.resources
 c:\users\windows 10 version 2\documents\visual studio 2015\Projects\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.PopulateCategoryTable.resources
+C:\Users\Windows 10 Version 2\documents\visual studio 2015\Projects\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddNameColumnToApplicationUser.resources

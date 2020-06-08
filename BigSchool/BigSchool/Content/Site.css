@@ -22,3 +22,40 @@ select,
 textarea {
     max-width: 280px;
 }
+
+/*Indnex*/
+.navbar-inverse{
+    background-color:#5abcdc;
+    border-color:#ffffff;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color:#ffffff;
+}
+.navbar-inverse .navbar-brand{
+    color:#ffffff;
+}
+
+/*Course Layout */
+.course  {
+    margin-top:20px;
+    list-style:none;
+}
+.course > ul >li {
+    list-style:none;
+    position:relative;
+    margin-bottom: 30px;
+}
+.course > ul >li  .date {
+    text-align:center;
+    background-color:#d9c3d5;
+    color: white;
+    width:60px;
+    border-radius:8px;
+    float:left;
+}
+.course > ul > li .details {
+    position: absolute;
+    top:0;
+    left:70px;
+}
+
